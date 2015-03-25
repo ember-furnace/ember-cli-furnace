@@ -43,6 +43,6 @@
       "./packages/furnace-i18n",
       "./packages/furnace-validation"
     ]
-  },
+  }
 
 }

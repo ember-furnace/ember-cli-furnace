@@ -1,0 +1,12 @@
+[submodule "lib/furnace-i18n"]
+	path = lib/furnace-i18n
+	url = https://github.com/ember-furnace/ember-cli-furnace-i18n
+[submodule "packages/furnace-i18n"]
+	path = packages/furnace-i18n
+	url = https://github.com/ember-furnace/ember-cli-furnace-i18n
+[submodule "packages/furnace-validation"]
+	path = packages/furnace-validation
+	url = https://github.com/ember-furnace/ember-cli-furnace-validation
+[submodule "packages/furnace-forms"]
+	path = packages/furnace-forms
+	url = https://github.com/ember-furnace/ember-cli-furnace-forms

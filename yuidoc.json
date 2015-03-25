@@ -1,0 +1,16 @@
+{
+  "name": "ember-cli-furnace",
+  "description": "The default blueprint for ember-cli addons.",
+  "version": "0.0.0",
+  "options": {
+    "paths": [
+      "addon",
+      "packages/furnace-forms",
+      "packages/furnace-i18n",
+      "packages/furnace-validation",
+      "bower_components/ember/lib"
+    ],
+    "exclude": "vendor",
+    "outdir": "docs"
+  }
+}

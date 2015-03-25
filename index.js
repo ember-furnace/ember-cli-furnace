@@ -2,5 +2,8 @@
 'use strict';
 
 module.exports = {
-  name: 'ember-cli-furnace'
+  name: 'furnace',
+  isDevelopingAddon: function() {
+		return true;
+	}
 };

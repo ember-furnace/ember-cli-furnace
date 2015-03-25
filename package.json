@@ -37,6 +37,12 @@
     "ember-addon"
   ],
   "ember-addon": {
-    "configPath": "tests/dummy/config"
-  }
+    "configPath": "tests/dummy/config",
+    "paths": [
+      "./packages/furnace-forms",
+      "./packages/furnace-i18n",
+      "./packages/furnace-validation"
+    ]
+  },
+
 }
